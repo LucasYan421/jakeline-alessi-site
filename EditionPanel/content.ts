@@ -70,7 +70,7 @@ export const content = {
   header: {
     menu: [
       { label: "Sobre", href: "#sobre" },
-      { label: "Casamentos", href: "#casamentos" },
+      { label: "Eventos", href: "#eventos" },
       { label: "Portfólio", href: "#portfolio" },
       { label: "Diferenciais", href: "#diferenciais" },
       { label: "Contato", href: "#contato" }

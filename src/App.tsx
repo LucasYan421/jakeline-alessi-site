@@ -23,7 +23,7 @@ export default function App() {
         {/* 3. Sobre a Jakeline Alessi */}
         <Sobre />
 
-        {/* 4. Casamentos / Serviços (Planejamento, Organização, Assessoria, Cerimonial, Coordenação) */}
+        {/* 4. Eventos / Serviços (Planejamento, Organização, Assessoria, Cerimonial, Coordenação) */}
         <Servicos />
 
         {/* 5. Portfólio com Galeria e Lightbox Interativo */}

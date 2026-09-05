@@ -15,7 +15,7 @@ export const Servicos: React.FC = () => {
   };
 
   return (
-    <section id="casamentos" className="py-20 sm:py-28 bg-[#FAF9F6] border-b border-[#E5E1D8] relative">
+    <section id="eventos" className="py-20 sm:py-28 bg-[#FAF9F6] border-b border-[#E5E1D8] relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Cabeçalho da Seção */}
