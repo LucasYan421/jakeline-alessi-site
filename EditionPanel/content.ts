@@ -83,8 +83,8 @@ export const content = {
   // ==========================================================================
   hero: {
     badge: "CERIMONIAL & ASSESSORIA",
-    titulo: "Seu casamento, cuidado em cada detalhe.",
-    descricao: "Assessoria e cerimonial para casais que desejam viver esse momento com tranquilidade, organização e segurança.",
+    titulo: "Seu evento, cuidado em cada detalhe.",
+    descricao: "Assessoria e cerimonial para eventos que desejam viver com tranquilidade, organização e segurança.",
     botaoPrincipal: "Solicitar orçamento",
     botaoSecundario: "Conheça meu trabalho"
   },
@@ -97,7 +97,7 @@ export const content = {
     titulo: "Por trás de cada evento, existe alguém cuidando de cada detalhe.",
     // Você pode editar ou adicionar parágrafos facilmente abaixo:
     paragrafos: [
-      "Olá, sou a Jakeline Alessi. Acredito que o casamento é um dos capítulos mais significativos na história de um casal, e planejar esse dia deve ser uma jornada leve, segura e memorável.",
+      "Olá, sou a Jakeline Alessi. Acredito que seu evento é um dos capítulos mais significativos na história de uma pessoa, e planejar esse dia deve ser uma jornada leve, segura e memorável.",
       "Minha atuação como cerimonialista e assessora é voltada para traduzir o estilo e os desejos de vocês em um cronograma impecável, alinhando fornecedores com rigor e garantindo que tudo flua com harmonia.",
       "Com um atendimento próximo e personalizado, estou presente para antecipar necessidades, gerenciar o tempo com discrição e assegurar que no dia vocês apenas celebrem e aproveitem cada segundo com quem amam."
     ],
@@ -109,13 +109,13 @@ export const content = {
   // ==========================================================================
   servicos: {
     subtitulo: "SERVIÇOS EXCLUSIVOS",
-    titulo: "Casamentos",
+    titulo: "Casamentos & eventos planejados com atenção, cuidado e dedicação.",
     descricao: "Do planejamento à execução, cada detalhe pensado para que vocês aproveitem o momento.",
     cards: [
       {
         id: "planejamento",
         titulo: "Planejamento",
-        descricao: "Estruturação de todas as etapas do casamento, definição de prazos, alinhamento de estilo e orientação estratégica inicial."
+        descricao: "Estruturação de todas as etapas, definição de prazos, alinhamento de estilo e orientação estratégica inicial."
       },
       {
         id: "organizacao",
@@ -125,17 +125,17 @@ export const content = {
       {
         id: "assessoria",
         titulo: "Assessoria",
-        descricao: "Indicação, alinhamento e curadoria de fornecedores ideais para o perfil do casal, com suporte nas decisões."
+        descricao: "Indicação, alinhamento e curadoria de fornecedores ideais para seu perfil, com suporte nas decisões."
       },
       {
         id: "cerimonial",
         titulo: "Cerimonial",
-        descricao: "Direção do cortejo, protocolos da celebração religiosa/ecumênica e condução refinada de cada instante solene."
+        descricao: "Direção do cortejo, protocolos da celebração e condução refinada de cada instante solene."
       },
       {
         id: "coordenacao",
         titulo: "Coordenação do evento",
-        descricao: "Supervisão integral no dia do casamento, montagem, cumprimento do roteiro, suporte aos noivos e resolução discreta de imprevistos."
+        descricao: "Supervisão integral no dia do evento, montagem, cumprimento do roteiro, suporte aos participantes e resolução discreta de imprevistos."
       }
     ]
   },
@@ -179,8 +179,8 @@ export const content = {
   // ==========================================================================
   contato: {
     subtitulo: "INICIE SEU PROJETO",
-    titulo: "Vamos conversar sobre o seu casamento?",
-    descricao: "Será um prazer conhecer a história de vocês, entender as expectativas para o grande dia e preparar uma proposta personalizada.",
+    titulo: "Vamos conversar sobre o seu evento?",
+    descricao: "Será um prazer conhecer a sua história, entender as expectativas para o grande dia e preparar uma proposta personalizada.",
     botao: "Solicitar orçamento"
   },
 
