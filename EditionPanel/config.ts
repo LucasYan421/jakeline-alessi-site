@@ -18,7 +18,7 @@ export const config = {
   whatsapp: "5561996656585",
 
   // Mensagem padrão pré-preenchida que o cliente enviará ao clicar nos botões
-  whatsappMessage: "Olá, Jakeline! Gostaria de solicitar um orçamento para o meu evento.",
+  whatsappMessage: "Olá, Jakeline! Gostaria de solicitar um orçamento para o meu evento. Meu evento é para ( ) pessoas, na data (__/__/____) e o tipo de evento é (casamento, aniversário, corporativo, etc) neste local: (inserir endereço ou cidade).",
 
   // Link completo do perfil no Instagram
   instagram: "https://instagram.com/jakelinealessicerimonial",
