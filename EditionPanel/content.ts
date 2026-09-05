@@ -105,7 +105,7 @@ export const content = {
   },
 
   // ==========================================================================
-  // CASAMENTOS / SERVIÇOS
+  // EVENTOS / SERVIÇOS
   // ==========================================================================
   servicos: {
     subtitulo: "SERVIÇOS EXCLUSIVOS",
