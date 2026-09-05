@@ -1,0 +1,6 @@
+{
+  "name": "Jakeline Alessi Cerimonial",
+  "description": "Assessoria e cerimonial para casamentos em Brasília, com organização, atenção aos detalhes e acompanhamento próximo em cada etapa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
